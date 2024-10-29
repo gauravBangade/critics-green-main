@@ -14,7 +14,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "axios": "^1.7.7",
-    "dotenv": "^16.4.0",
+    "dotenv": "^16.4.5",
     "faiss-node": "^0.5.1",
     "framer-motion": "^10.16.4",
     "git": "^0.1.5",
