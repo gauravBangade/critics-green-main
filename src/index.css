@@ -1,0 +1,12 @@
+form {
+    width: 100%;
+}
+
+.clickable-card {
+    cursor: pointer;
+    transition: transform 0.2s; /* Add a smooth transition for the scaling effect */
+  }
+  
+  .clickable-card:hover {
+    transform: scale(1.05); /* Increase the card size slightly on hover */
+  }
